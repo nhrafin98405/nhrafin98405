@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 130" width="640" height="260">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&amp;family=Cormorant+Garamond:ital,wght@0,300;0,500;1,300&amp;family=Italiana&amp;display=swap');
+      .mono   { font-family: 'Cinzel', Georgia, serif; font-weight: 700; font-size: 26px; letter-spacing: 4px; }
+      .prefix { font-family: 'Cormorant Garamond', serif; font-weight: 300; font-style: italic; font-size: 14px; letter-spacing: 6px; }
+      .hero   { font-family: 'Italiana', 'Cormorant Garamond', serif; font-weight: 400; font-size: 44px; letter-spacing: 14px; }
+      .heroShadow { font-family: 'Italiana', serif; font-weight: 400; font-size: 44px; letter-spacing: 14px; }
+      .tag    { font-family: 'Cinzel', serif; font-weight: 500; font-size: 4px; letter-spacing: 1.4px; }
+    </style>
+
+    <linearGradient id="goldA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#fff7d6"/>
+      <stop offset="35%" stop-color="#f7d774"/>
+      <stop offset="60%" stop-color="#c9962b"/>
+      <stop offset="100%" stop-color="#7a4a10"/>
+    </linearGradient>
+
+    <linearGradient id="goldShift" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#fff7d6"/>
+      <stop offset="50%" stop-color="#f5c860"/>
+      <stop offset="100%" stop-color="#a16a16"/>
+      <animate attributeName="x1" values="-1;0;1;-1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;2;0"   dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="heroGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#fff7d6"/>
+      <stop offset="20%"  stop-color="#f7d774"/>
+      <stop offset="50%"  stop-color="#ffffff"/>
+      <stop offset="80%"  stop-color="#f5c860"/>
+      <stop offset="100%" stop-color="#8a5618"/>
+      <animate attributeName="x1" values="-0.5;0.5;1.5;-0.5" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.5;1.5;2.5;0.5" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#fff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5"/>
+    </filter>
+    <filter id="heroGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+
+    <clipPath id="monoClip">
+      <text x="60" y="68" text-anchor="middle" class="mono">NHR</text>
+    </clipPath>
+    <clipPath id="heroClip">
+      <text x="210" y="78" text-anchor="middle" class="hero">RAFIN</text>
+    </clipPath>
+  </defs>
+
+  <!-- ===== Mark ===== -->
+  <g transform="translate(5,5)">
+    <g transform-origin="60 60">
+      <circle cx="60" cy="60" r="50" fill="none" stroke="url(#goldA)" stroke-width="0.4" opacity="0.5">
+        <animate attributeName="r" values="50;52;50" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g transform-origin="60 60">
+      <circle cx="60" cy="60" r="45" fill="none" stroke="url(#goldShift)"
+        stroke-width="0.5" stroke-dasharray="0.5 5" opacity="0.85"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 60 60" to="360 60 60" dur="50s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform-origin="60 60">
+      <circle cx="60" cy="60" r="40" fill="none" stroke="url(#goldShift)" stroke-width="0.9"/>
+      <circle cx="60" cy="60" r="38" fill="none" stroke="url(#goldA)" stroke-width="0.3" opacity="0.7"/>
+      <line x1="60" y1="18" x2="60" y2="24" stroke="url(#goldA)" stroke-width="0.8"/>
+      <line x1="60" y1="96" x2="60" y2="102" stroke="url(#goldA)" stroke-width="0.8"/>
+      <line x1="18" y1="60" x2="24" y2="60" stroke="url(#goldA)" stroke-width="0.8"/>
+      <line x1="96" y1="60" x2="102" y2="60" stroke="url(#goldA)" stroke-width="0.8"/>
+    </g>
+
+    <text x="60" y="68" text-anchor="middle" class="mono"
+      fill="#f5c860" opacity="0.45" filter="url(#glow)">NHR</text>
+    <text x="60" y="68" text-anchor="middle" class="mono" fill="url(#goldShift)">NHR
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="5s" repeatCount="indefinite"/>
+    </text>
+
+    <g clip-path="url(#monoClip)">
+      <rect x="-50" y="40" width="30" height="40" fill="url(#shine)" opacity="0.85">
+        <animate attributeName="x" values="-50;130" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g transform-origin="60 60">
+      <circle cx="60" cy="20" r="1.6" fill="#fff7d6"/>
+      <circle cx="60" cy="20" r="3.2" fill="#f5c860" opacity="0.7" filter="url(#soft)"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 60 60" to="360 60 60" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- ===== Premium Wordmark ===== -->
+  <g>
+    <!-- italic 'NH' prefix, small and elegant -->
+    <text x="135" y="50" class="prefix" fill="url(#goldA)" opacity="0.95">N . H .</text>
+
+    <!-- decorative hairline with center diamond -->
+    <line x1="135" y1="56" x2="285" y2="56" stroke="url(#goldA)" stroke-width="0.4" opacity="0.75"/>
+
+    <!-- hero RAFIN: large, airy, ornate -->
+    <!-- soft outer glow -->
+    <text x="210" y="92" text-anchor="middle" class="heroShadow"
+      fill="#f5c860" opacity="0.35" filter="url(#heroGlow)">RAFIN</text>
+
+    <!-- engraved shadow -->
+    <text x="210" y="92.6" text-anchor="middle" class="hero"
+      fill="#3a2407" opacity="0.55">RAFIN</text>
+
+    <!-- main hero -->
+    <text x="210" y="92" text-anchor="middle" class="hero" fill="url(#heroGold)">RAFIN
+      <animate attributeName="opacity" values="0.94;1;0.94" dur="6s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- subtle inner stroke for engraving feel -->
+    <text x="210" y="92" text-anchor="middle" class="hero"
+      fill="none" stroke="url(#goldA)" stroke-width="0.25" opacity="0.6">RAFIN</text>
+
+    <!-- shine sweep across RAFIN -->
+    <g clip-path="url(#heroClip)">
+      <rect x="80" y="52" width="60" height="50" fill="url(#shine)" opacity="0.9">
+        <animate attributeName="x" values="80;360" dur="6.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- bottom flourish: line · ornament · line -->
+    <line x1="135" y1="103" x2="188" y2="103" stroke="url(#goldA)" stroke-width="0.5" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0 60;55 60;0 60" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="232" y1="103" x2="285" y2="103" stroke="url(#goldA)" stroke-width="0.5" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0 60;55 60;0 60" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <g transform="translate(210 103)">
+      <circle cx="0" cy="0" r="1.3" fill="url(#goldShift)"/>
+      <circle cx="-7" cy="0" r="0.7" fill="url(#goldA)" opacity="0.8"/>
+      <circle cx="7" cy="0" r="0.7" fill="url(#goldA)" opacity="0.8"/>
+    </g>
+
+    <!-- tagline -->
+    <text x="210" y="116" text-anchor="middle" class="tag" fill="url(#goldA)" opacity="0.9">T R U T H &#xb7; I S &#xb7; S T R A N G E R &#xb7; T H A N &#xb7; F I C T I O N</text>
+  </g>
+</svg>
