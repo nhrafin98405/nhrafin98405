@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.svg" width="140" alt="NH Rafin Logo"/>
+<img src="./assets/my-logo.svg" width="140" alt="NH Rafin Logo"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm NH Rafin
 
