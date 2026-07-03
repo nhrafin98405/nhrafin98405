@@ -1,274 +1,765 @@
-<!-- ================= BANNER ================= -->
-<!-- Option A: animated gradient banner (no image upload needed) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi,%20I'm%20NH%20Rafin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=cdb4ff" width="100%"/>
-</p>
+<!-- ========================================================= -->
+<!--                 NH RAFIN | GITHUB PROFILE                  -->
+<!-- ========================================================= -->
 
-<!-- Option B: your own cyberpunk banner image (uncomment after uploading it to /assets in your repo) -->
-<!--
-<p align="center">
-  <img src="assets/banner.png" width="100%"/>
-</p>
--->
+<div align="center">
 
-<!-- ================= TECH STACK ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="./assets/my-logo.svg" width="140" alt="NH Rafin Logo"/>
 
-<!-- ================= SOCIAL BUTTONS + PROFILE VIEWS ================= -->
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:morshidulrahman4167@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://morshidul-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6a0dad&label=PROFILE+VIEWS"/>
-</p>
+<br><br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+NH+Rafin;Full+Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+Developer;Always+Learning+New+Technologies"/>
 
-<!-- ================= ABOUT ME ================= -->
-## 🧑‍💻 About Me
+<br>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+### 💜 Turning Ideas Into Reality Through Code
 
-- 🔭 I'm currently working on something cool 😎
-- 🌱 I'm currently learning something amazing 🔥
-- 📁 All of my projects are available at&nbsp;
-  <a href="https://morshidul-portfolio.netlify.app">morshidul-portfolio.netlify.app</a>
-- 💬 Ask me about **React, JavaScript, Node.js, Next.js, MongoDB**
-- 📫 How to reach me: **morshidulrahman4167@gmail.com**
-- 📄 Know about my experiences: <a href="#">Resume</a>
-- ⚡ Fun fact: I think I'm crazy
+<img src="https://komarev.com/ghpvc/?username=nhrafin98405&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
-</td>
-<td width="42%" align="center">
-  <img src="assets/my-logo.svg" width="100%"/>
-</td>
-</tr>
-</table>
-
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<!-- ================= OPTIONAL BONUS: GITHUB STATS ================= -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%"/>
-</p>
-
-<!-- ================= BANNER ================= -->
-<!-- Option A: animated gradient banner (no image upload needed) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi,%20I'm%20NH%20Rafin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=cdb4ff" width="100%"/>
-</p>
-
-<!-- Option B: your own cyberpunk banner image (uncomment after uploading it to /assets in your repo) -->
-<!--
-<p align="center">
-  <img src="assets/banner.png" width="100%"/>
-</p>
--->
-
-<!-- ================= TECH STACK ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<!-- ================= SOCIAL BUTTONS + PROFILE VIEWS ================= -->
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:morshidulrahman4167@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://morshidul-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6a0dad&label=PROFILE+VIEWS"/>
-</p>
-
-<br/>
-
-<!-- ================= ABOUT ME ================= -->
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-- 🔭 I'm currently working on something cool 😎
-- 🌱 I'm currently learning something amazing 🔥
-- 📁 All of my projects are available at&nbsp;
-  <a href="https://morshidul-portfolio.netlify.app">morshidul-portfolio.netlify.app</a>
-- 💬 Ask me about **React, JavaScript, Node.js, Next.js, MongoDB**
-- 📫 How to reach me: **morshidulrahman4167@gmail.com**
-- 📄 Know about my experiences: <a href="#">Resume</a>
-- ⚡ Fun fact: I think I'm crazy
-
-</td>
-<td width="42%" align="center">
-  <img src="assets/my-logo.svg" width="100%"/>
-</td>
-</tr>
-</table>
-
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
+</div>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+# 👋 Welcome
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
-</p>
-
-<!-- ================= TROPHIES ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
-<!--
-  Snake setup (one-time):
-  1) Repo Settings → Secrets → add a personal access token if needed
-  2) Add this GitHub Action: https://github.com/Platane/snk
-  It auto-generates the animated snake above from your contribution graph.
--->
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NH%20Rafin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58"/>
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
-## 🚀 Featured Projects
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nhrafin98405">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:nhrafin98405@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
 
 <table>
+
 <tr>
-<td width="50%">
 
-### 🔹 [Project One](#)
-Short one-line description of what it does and the problem it solves.
-<br/>
-`React` `Node.js` `MongoDB`
+<td width="55%" valign="top">
+
+## 👨‍💻 NH Rafin
+
+```yaml
+Name: NH Rafin
+
+Role: Full Stack Web Developer
+
+Location: Bangladesh
+
+Email: nhrafin98405@gmail.com
+
+Current Focus:
+  - Laravel
+  - React
+  - REST API
+  - Responsive Web Applications
+
+Learning:
+  - Advanced React
+  - Advanced Laravel
+  - Node.js
+
+Open To:
+  - Internship
+  - Freelance
+  - Collaboration
+```
+
+### 🚀 What I Do
+
+- 💻 Build Modern Web Applications
+- ⚡ Develop Full Stack Projects
+- 💜 Love Clean UI & Backend Logic
+- 🌱 Learn New Technologies Everyday
+- 🎯 Write Clean & Reusable Code
+- 🚀 Passionate About Problem Solving
 
 </td>
-<td width="50%">
 
-### 🔹 [Project Two](#)
-Short one-line description of what it does and the problem it solves.
-<br/>
-`Laravel` `MySQL` `jQuery`
+<td width="45%" align="center">
+
+<img src="./assets/my-logo.svg" width="330"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1200&color=C084FC&center=true&vCenter=true&width=300&lines=Laravel+❤;React+❤;PHP+❤;Full+Stack+Developer"/>
 
 </td>
+
 </tr>
-<tr>
-<td width="50%">
 
-### 🔹 [Project Three](#)
-Short one-line description of what it does and the problem it solves.
-<br/>
-`JavaScript` `PHP` `CSS`
-
-</td>
-<td width="50%">
-
-### 🔹 [Project Four](#)
-Short one-line description of what it does and the problem it solves.
-<br/>
-`Next.js` `Tailwind` `MongoDB`
-
-</td>
-</tr>
 </table>
-
-<p align="center"><i>See all projects on my <a href="https://morshidul-portfolio.netlify.app">portfolio</a> →</i></p>
-
-<br/>
 
 ---
 
-<!-- ================= SUPPORT ================= -->
-## ☕ Support Me
+# 💻 Tech Highlights
 
-<p align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-  </a>
+<div align="center">
+
+| 🚀 Experience | 💜 Favourite | 🌱 Learning |
+|--------------|--------------|-------------|
+| Laravel | React | Node.js |
+| PHP | JavaScript | Docker |
+| MySQL | Bootstrap | Linux |
+
+</div>
+
+---
+
+> 💜 **"Code • Learn • Build • Repeat."**
+
+---# 🛠 Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php"/>
+
+<br><br>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,jquery,vite"/>
+
+<br><br>
+
+### ⚙ Backend Development
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql"/>
+
+<br><br>
+
+### 🛠 Tools & Software
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</div>
+
+---
+
+# 💎 Skills
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|:---------:|:-------:|:--------:|:-----:|
+| HTML5 | PHP | MySQL | Git |
+| CSS3 | Laravel | | GitHub |
+| JavaScript | REST API | | VS Code |
+| Bootstrap | Authentication | | Postman |
+| Tailwind CSS | MVC Pattern | | npm |
+| React | CRUD Operations | | Vite |
+| jQuery | | | |
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+🚀 Building Modern Portfolio Website
+
+🚚 Developing Courier Management System
+
+⚛ Learning Advanced React
+
+🔥 Building Laravel REST APIs
+
+💻 Practicing Full Stack Development
+
+📚 Improving Problem Solving Skills
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Advanced%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+# 🧰 Developer Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vite,php,laravel,mysql,git,github,vscode,postman,npm"/>
+
+</div>
+
+---
+
+# ⚡ Development Workflow
+
+```text
+📝 Plan
+      │
+      ▼
+🎨 UI Design
+      │
+      ▼
+💻 Frontend Development
+      │
+      ▼
+⚙ Backend Development
+      │
+      ▼
+🗄 Database Integration
+      │
+      ▼
+🧪 Testing & Debugging
+      │
+      ▼
+🚀 Deployment
+```
+
+---
+
+# 🎯 Goals
+
+- 🚀 Become an Expert Full Stack Developer
+- 💜 Master Laravel & React
+- 🌍 Build Real-World Projects
+- 📱 Learn Modern Web Technologies
+- 🔥 Contribute to Open Source
+- 💼 Secure Professional Opportunities
+
+---
+
+<div align="center">
+
+## 💜 "Every Expert Was Once a Beginner."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3"/>
+
+</div>
+
+---# 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Projects I'm Proud Of
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🌐 Portfolio Website</h3>
+
+<a href="https://github.com/nhrafin98405/portfolio-showcase">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhrafin98405&repo=portfolio-showcase&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🚚 Courier Management System</h3>
+
+<a href="https://github.com/nhrafin98405/courier-management-system">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nhrafin98405&repo=courier-management-system&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Portfolio Website
+
+### ✨ Features
+
+✔ Modern UI
+
+✔ Fully Responsive
+
+✔ Dark & Light Theme
+
+✔ Smooth Animation
+
+✔ React.js
+
+✔ Vite
+
+✔ Tailwind CSS
+
+✔ Contact Form
+
+✔ GitHub Integration
+
+✔ Fast Performance
+
+---
+
+# 🚚 Courier Management System
+
+### ✨ Features
+
+✔ Laravel Framework
+
+✔ PHP
+
+✔ MySQL Database
+
+✔ Authentication
+
+✔ Parcel Tracking
+
+✔ Admin Dashboard
+
+✔ User Management
+
+✔ Hub Management
+
+✔ Delivery Management
+
+✔ Payment Management
+
+✔ Reports
+
+✔ Responsive Dashboard
+
+---
+
+# ⚡ Currently Building
+
+<div align="center">
+
+| 🚀 Project | Status |
+|------------|--------|
+| 🌐 Portfolio Website | 🟢 Active |
+| 🚚 Courier Management System | 🟢 Active |
+| ⚛ React Dashboard | 🟡 Learning |
+| 🔥 Laravel REST API | 🟡 Learning |
+
+</div>
+
+---
+
+# 📂 Repository Highlights
+
+<div align="center">
+
+| Project | Tech Stack |
+|---------|------------|
+| 🌐 Portfolio | React • Vite • Tailwind |
+| 🚚 Courier System | Laravel • PHP • MySQL |
+| 📱 Future Dashboard | React • Laravel |
+| 🌍 REST API | Laravel API |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+```text
+🏆 Built Multiple Laravel Projects
+
+⚛ Learning React Professionally
+
+💜 Passionate About Full Stack Development
+
+🚀 Building Real World Applications
+
+📚 Continuous Learner
+
+🌱 Exploring Modern Technologies
+```
+
+---
+
+# 📅 Roadmap
+
+```text
+✅ HTML
+
+✅ CSS
+
+✅ Bootstrap
+
+✅ Tailwind CSS
+
+✅ JavaScript
+
+✅ PHP
+
+✅ MySQL
+
+✅ Laravel
+
+✅ Git & GitHub
+
+🟡 React (In Progress)
+
+🟡 REST API (In Progress)
+
+🟡 Node.js (Learning)
+
+🔜 Docker
+
+🔜 TypeScript
+
+🔜 Next.js
+
+🔜 Cloud Deployment
+```
+
+---
+
+<div align="center">
+
+## 💜 "Build Today. Improve Tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3"/>
+
+</div>
+
+---# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhrafin98405&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhrafin98405&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nhrafin98405&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nhrafin98405&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhrafin98405&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhrafin98405&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Development Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhrafin98405&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhrafin98405&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚙️ Developer Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhrafin98405&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhrafin98405&theme=tokyonight&utcOffset=6"/>
+
+</div>
+
+---
+
+# 📅 GitHub Overview
+
+<div align="center">
+
+| 📌 Statistics | Status |
+|:-------------|:------:|
+| 🚀 Public Repositories | Updating Automatically |
+| ⭐ Total Stars | Live |
+| 🍴 Forks | Live |
+| 🔥 Streak | Live |
+| 📈 Contributions | Live |
+| 💻 Languages | Live |
+
+</div>
+
+---
+
+# 💎 Developer Mindset
+
+```text
+💜 Write Clean Code
+
+⚡ Learn Every Day
+
+🚀 Build Real Projects
+
+🌱 Keep Improving
+
+📚 Never Stop Learning
+
+🤝 Share Knowledge
+
+🎯 Solve Problems
+
+🔥 Stay Consistent
+```
+
+---
+
+<div align="center">
+
+### 🚀 Keep Coding • Keep Learning • Keep Growing
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3"/>
+
+</div>
+
+---# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nhrafin98405@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nhrafin98405">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Contact Information
+
+```yaml
+Name      : NH Rafin
+
+Role      : Full Stack Web Developer
+
+Email     : nhrafin98405@gmail.com
+
+Country   : Bangladesh 🇧🇩
+
+Focus     : Laravel • React • PHP • JavaScript
+
+Available : Internship • Freelance • Collaboration
+```
+
+---
+
+# 🚀 What Makes Me Different
+
+```text
+💜 Passionate About Coding
+
+🚀 Love Building Real World Applications
+
+⚡ Clean & Maintainable Code
+
+📚 Continuous Learner
+
+🌱 Always Improving
+
+🤝 Team Player
+
+💻 Full Stack Development
+
+🎯 Problem Solver
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Master Advanced Laravel
+- ⚛ Master React Ecosystem
+- 🔥 Learn Node.js & Express
+- 🌍 Build Professional SaaS Applications
+- ☁ Learn Cloud Deployment
+- 🐳 Learn Docker
+- 🌟 Contribute to Open Source
+- 💼 Secure Full Stack Developer Role
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+💜 Follow my GitHub
+
+🤝 Let's Build Something Amazing Together
+
+</div>
+
+---
+
+# 💡 Fun Facts
+
+```text
+☕ Coffee + Music + Code = Perfect Day
+
+🌙 I Love Late Night Coding
+
+🎧 Coding With Lo-fi Music
+
+💜 Laravel Is My Favorite Framework
+
+⚛ React Makes UI Beautiful
+
+🚀 Every Day Is A Learning Day
+```
+
+---
+
+# 📚 Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+# 💜 Developer Quote
+
+<div align="center">
+
+## 💻 Code • Learn • Build • Repeat
+
+### 🚀 Turning Ideas Into Reality Through Code
+
+*"Success doesn't come from what you know. It comes from what you build consistently."*
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| 💻 Role | 🌱 Learning | 🚀 Focus |
+|:-------:|:-----------:|:--------:|
+| Full Stack Developer | React & Laravel | Modern Web Development |
+
+</div>
+
+---
+
+# 🎉 Thanks For Visiting
+
+<div align="center">
+
+<h2>💜 Thanks for visiting my profile!</h2>
+
+<p>
+
+⭐ If you like my work, consider giving a star to my repositories.
+
 </p>
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=170&section=footer"/>
 
-<p align="center"><i>Thanks for visiting my profile — feel free to connect! 🚀</i></p>
-
-
+</div>
