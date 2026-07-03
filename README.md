@@ -56,11 +56,11 @@
 
 # 💫 About Me
 
-<table>
 
-<tr>
 
-<td valign="top">
+
+
+
 
 ## 👨‍💻 NH Rafin
 
@@ -97,17 +97,17 @@ Open To:
 - 🎯 Write Clean & Reusable Code
 - 🚀 Passionate About Problem Solving
 
-</td>
 
-<td  align="center">
+
+
 
 <img src="./assets/my-logo.svg" width="330"/>
 
-</td>
 
-</tr>
 
-</table>
+
+
+
 
 ---
 
