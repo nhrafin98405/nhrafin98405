@@ -60,7 +60,7 @@
 
 <tr>
 
-<td width="80%" valign="top">
+<td valign="top">
 
 ## 👨‍💻 NH Rafin
 
@@ -76,13 +76,11 @@ Email: nhrafin98405@gmail.com
 Current Focus:
   - Laravel
   - React
-  - REST API
   - Responsive Web Applications
 
 Learning:
   - Advanced React
   - Advanced Laravel
-  - Node.js
 
 Open To:
   - Internship
@@ -101,7 +99,7 @@ Open To:
 
 </td>
 
-<td width="20%" align="center">
+<td  align="center">
 
 <img src="./assets/my-logo.svg" width="330"/>
 
