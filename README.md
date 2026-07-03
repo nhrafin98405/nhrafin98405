@@ -60,7 +60,7 @@
 
 <tr>
 
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ## 👨‍💻 NH Rafin
 
@@ -101,13 +101,9 @@ Open To:
 
 </td>
 
-<td width="40%" align="center">
+<td width="20%" align="center">
 
 <img src="./assets/my-logo.svg" width="330"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Laravel+❤;React+❤;PHP+❤;Full+Stack+Developer" alt="Typing SVG" />
 
 </td>
 
