@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/my-logo.svg" width="100%" alt="NH Rafin Logo"/>
+<img src="./assets/my-logo.svg" width="80%" alt="NH Rafin Logo"/>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+NH+Rafin;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+PHP+Developer"/>
 <img src="https://komarev.com/ghpvc/?username=nhrafin98405&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
