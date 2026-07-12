@@ -59,7 +59,7 @@ I build clean, modern full-stack web applications — with a strong focus on Lar
 
 📅 Roadmap
 
-✅ HTML ✅ CSS ✅ JS ✅ PHP ✅ Laravel ✅ MySQL ✅ Git/GitHub — done
+✅ HTML ✅ CSS ✅ JS ✅ PHP ✅ Laravel ✅ MySQL ✅ Git/GitHub — done <br>
 🟡 React 🟡 REST API 🟡 Node.js — in progress
 🔜 Docker 🔜 TypeScript 🔜 Next.js 🔜 Cloud Deployment — up next
 
