@@ -12,7 +12,7 @@
 
 👨‍💻 About Me
 
-yamlName:      NH Rafin
+Name:      NH Rafin
 Role:      Full Stack Web Developer
 Location:  Bangladesh 🇧🇩
 Focus:     Laravel · React · PHP
